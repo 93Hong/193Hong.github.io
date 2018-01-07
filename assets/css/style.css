@@ -1462,7 +1462,6 @@ Icon for all respective meta
 
 /* === Contact Section === */
 .contact-section  {
-
 }
 
 .contact-section strong {
@@ -1471,6 +1470,11 @@ Icon for all respective meta
 }
 .contact-form strong {
     margin-bottom: 40px;
+}
+
+.contact-form {
+  margin : auto;
+  width: 50%;
 }
 
 .contact-form textarea.form-control {
@@ -1482,7 +1486,6 @@ Icon for all respective meta
 }
 
 .contact-section div > i{
-    float: left;
     font-size: 45px;
     margin-right: 20px;
 }
@@ -1495,15 +1498,7 @@ Icon for all respective meta
 }
 
 
-/*MAP*/
-.location-map {
-    padding: 4px;
-    border: 1px solid #eee;
-    border-bottom: 3px double #eee;
-}
-.map-canvas {
-    height: 350px;
-}
+
 
 
 
